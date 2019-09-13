@@ -11,7 +11,10 @@
 
 
 
-## Live Demo
+## How to Play
+
+### live demo
+https://hardcore-lovelace-973c75.netlify.com/
 
 or download this repository page and open "index.html" from a brownser for the game to run.
 
